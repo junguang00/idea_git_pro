@@ -7,6 +7,7 @@ public class Demo02 {
         System.out.println("11112222");
         System.out.println("123456");
         System.out.println("dev11");
+        System.out.println("这是dev");
         System.out.println("dev222");
     }
 }
