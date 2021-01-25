@@ -2,6 +2,6 @@ package com.ujiuye.demo;
 
 public class Demo02 {
     public void test1(){
-        System.out.println("1111");
+        System.out.println("11112222");
     }
 }
